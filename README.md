@@ -55,6 +55,7 @@ https://github.com/user-attachments/assets/01ce8ab8-9e1d-40c7-ae4a-b7811c1573d1
 ## 👨‍💻 Author
 
 **Minsu Agrahari**
+
 🎓 CSE Student | 💻 Frontend Developer
 🌍 From Jharkhand, India
 
