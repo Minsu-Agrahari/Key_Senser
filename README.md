@@ -27,7 +27,6 @@ A cool and interactive **Key Detection App** built using HTML, CSS, and JavaScri
 1. 📥 Clone this repository:
    ```bash
    git clone https://github.com/Minsu-Agrahari/Key_Senser.git
-````
 
 2. 📂 Open the folder in your code editor
 3. 🌐 Launch `index.html` in your browser
